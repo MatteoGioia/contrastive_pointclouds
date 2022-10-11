@@ -1,4 +1,4 @@
-# DLAI_Prj2022
+# Contrastive pointclouds
 Project for DLAI 2022 at La Sapienza, playing around with contrastive learning and 3d shapes. 
 
 ### How to run
